@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/lkho/addition3.git"
   },
-  "license": "ISC",
+  "license": "WTFPL",
   "engines": {
     "node": ">=6.0.0"
   },
