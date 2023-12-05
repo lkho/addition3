@@ -1,6 +1,6 @@
 {
   "name": "addition3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Perform addition operation on two or more operands.",
   "keywords": [],
   "main": "dist/addition3.umd.js",
